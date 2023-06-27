@@ -41,8 +41,8 @@ export default {
     return {
       running: false, // 是否转换中
       percent: 0,
-      selectedLevel: localStorage.getItem(LS_KEY) * 1, // 选中的去重等级
-      levelList: [{ // 去重等级列表
+      selectedLevel: localStorage.getItem(LS_KEY) * 1, // 选中的降重等级
+      levelList: [{ // 降重等级列表
         label: '初级',
         text: '中 > 英 > 德 > 中',
         index: 0,
