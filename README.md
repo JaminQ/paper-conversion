@@ -1,6 +1,6 @@
 # 论文降重助手
 
-项目 forked 自 [DaGeger/paper-conversion](https://github.com/DaGeger/paper-conversion) ，做了些交互和样式调整，可访问这里使用。
+项目 forked 自 [DaGeger/paper-conversion](https://github.com/DaGeger/paper-conversion) ，做了些交互和样式调整，可访问[这里](https://jaminqian.com/paper-conversion/)使用。
 
 ## 降重原理
 
